@@ -1,0 +1,53 @@
+
+.first-container{
+    
+    width:100%;
+    height: 215px;
+    padding-top:40px;
+
+}
+.left{
+    display:block;
+    width: 80px;
+    margin-inline-start: 30%;
+}
+.nav-bar li{
+    display:block;
+    font-size:2px;
+    margin-top:20px;
+    font-size: 15px;
+
+}
+.right{
+    display:block;
+    position:static;
+    display: block;
+    position: static;
+    margin-block-start: 110px;
+    margin-right: 15px;
+    padding-right: 10px;
+    width: 150px;
+}
+
+.second-container{
+    box-sizing: border-box;
+    width:100%;
+    height:440px; 
+}
+#about-us{
+    box-sizing: border-box;
+    width:100%;
+}
+.second-container img{
+    height:200px;
+    width:200px;
+    background-color: black;
+
+}
+.about{
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 0.8rem;
+    padding:0px;
+   
+}
